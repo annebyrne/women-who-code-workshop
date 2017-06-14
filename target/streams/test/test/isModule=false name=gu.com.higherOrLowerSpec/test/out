@@ -1,4 +1,0 @@
-[0m[[0minfo[0m] [0m[32mhigherOrLowerSpec:[0m[0m
-[0m[[0minfo[0m] [0m[32m- should give the player a shuffled deck of cards, numbered 1 to 10 in random order[0m[0m
-[0m[[0minfo[0m] [0m[32m- should compare the top two cards in the deck[0m[0m
-[0m[[0minfo[0m] [0m[32m- should end the game if there are no more cards left[0m[0m
