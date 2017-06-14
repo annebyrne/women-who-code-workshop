@@ -1,0 +1,8 @@
+compile
+clean
+compile
+run
+reload
+clean
+compile
+test
